@@ -318,8 +318,4 @@ CORS(app, origins=["https://your-frontend-domain.com"])
 - [Dataset source/Research paper citations]
 - Contributors and testers
 
----
 
-**Version:** 1.0.0  
-**Last Updated:** January 2026  
-**Status:** Active Development
